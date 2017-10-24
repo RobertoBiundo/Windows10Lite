@@ -28,11 +28,16 @@ https://www.ntlite.com/download/
 6. Select ISO format (do not create a bootable disk)
 7. Download make take a long time depending on your internet.
 8. Open the downloaded ISO file by double clicking on it (using the default windows tools)
-9. Copy all the contents of the file to a folder of your choice (desktop is a good idea)
-10. Open NTLite
-11. Click on Add > Image Folder
-12. WORK IN PROGRESS
-
+9. Copy all the contents of the file to a folder of your choice (a desktop folder is a good idea)
+10. Copy the xml file downloaded in step 3 to the same folder
+11. Open NTLite
+12. Click on Add > Image Folder
+13. Add the folder extracted in step 9
+14. Right-Click on Windows 10 Pro and select load (this process takes a long time)
+15. Right click on the file in the right side and select load (the one downloaded from this repo and recognized by NTLite)
+16. Go to apply and the Process (an iso file will be generated in your desktop NTLite.iso)
+17. Create a bootable USB using your favorite diskUtility. Rufus is recomended
+https://rufus.akeo.ie/
 
 # Test before you use
 It is recomended that you use your favorite Virtual Machine to install the resulting ISO file.
