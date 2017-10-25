@@ -43,6 +43,13 @@ https://rufus.akeo.ie/
 It is recomended that you use your favorite Virtual Machine to install the resulting ISO file.
 This will help you identify the usefulness of this Windows install for your particular case before formating your computer.
 
+# Known Issues
+- If your tiles are not working (Pin to start not working) create a new user using PowerShell and Delete the original one. Try this as soon as you finish your install
+- If your bluethooth is not working try Added your devices trough Control Panel and not Windows Settings
+
+# Extras
+Remove fodlers from Windows Explorer MyPC Using the script
+Remove All User Folders From This PC 64-bit.reg
 
 # Under development
 A way to create a new Lite install disk for every mayor release that allows you to update your current installation.
