@@ -15,6 +15,7 @@ NOTE: This script only supports english language and US-International Keyboard
 2. All special hardware most be installed manually (Ex. Video Card Drivers, Touch screens and a small part of touch devices)
 3. There is no protections (No windows defender). You are on your own. Be responsible
 4. There are no browsers. No Edge or Internet Explorer 11. Copy the install file for your browser of choice in a pendrive and run it form there.
+5. NTLite is required
 
 
 # How-To use
